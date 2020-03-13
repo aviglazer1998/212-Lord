@@ -6,7 +6,7 @@ Project1, ClockGUI, and Clock are all part of the same project. The assignment f
 Create a class called Clock to represent a Clock. It should have three private instance variables:
 An int for the hours, an int for the minutes, and an int for the seconds.
 The class should include a threeargument constructor and get and set methods for each instance variable. 
-Override the method toString which should return the Clock information in the same format as the input file (See below). 
+Override the method toString which should return the Clock information in the same format as the input file. 
  
 Read the information about a Clock from a file that will be given to you on Blackboard,
 parse out the three pieces of information for the Clock using a StringTokenizer, 
